@@ -1,0 +1,199 @@
+.bg-img {
+  background-image: url("media/image.jpg");
+width: 100%;
+  min-height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+  text-align: center;
+
+}
+.nav-item .nav-link:hover{
+  color: #11224e;
+  background-color: #b5bed3;
+
+}
+
+.fw-bold {
+  text-align: left;
+  padding-top: 150px;
+}
+.fw-bolder{
+  text-align: left;
+}
+.fw-normal{
+  text-align: left;  
+}
+..topnav .A{
+  text-align: right;
+}
+.body-1 .container-fluid{
+    background-color: #f0f0f0;
+  width: 100%;
+  height: 450px;
+  
+}
+
+.row .col-md-4{
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.body-2 .container{
+ 
+  width: 100%;
+  height: 310px;
+}
+.row .col-md-6{
+  padding-left: 50px;
+  padding-top: 50px;
+}
+button{
+  background-color: #3f68d4;
+}
+.body-3 .container{
+  background-color: white;
+  width: 100%;
+  height: 600px;
+}
+
+
+#bg{
+  width: 35%;
+  height: 600px ;
+  background-color: white;
+  color: gray;
+}
+#bg2{
+  width: 65%;
+  height: 600px ;
+
+}
+
+.img-thumbnail{
+  width="30%";  
+  height="100px"
+}
+img{
+padding-top: 5px;
+  
+}
+#bg3{
+  width: 100%;
+  height: 490px ;
+  padding-top: 5px;
+  background-color: white;
+}
+.navbar-nav .nav-item .nav-link {
+  color: gray;
+}
+.navbar-nav .nav-item .nav-link:hover{
+  color: #11224e;
+}
+h3{
+  color: black;
+}
+.im:hover{
+  opacity: 0.5;
+}
+.body-4 .container-fluid{
+  background-color: #e6ecfd; 
+  width: 100%;
+height: 120px;
+}
+
+.body-5 .container{
+  width: 100%;
+  height: 380px;
+  background-color: white;
+}
+
+.footer{
+  width: 100%;
+  height: 200px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+#p{
+  font-size: smaller;
+}
+.M{
+  color: #3f68d4;
+}
+#S{
+  width: 33.33%;
+  height: 380px;
+  background-color: white;
+  float: left;
+}
+#D{
+  width: 33.33%;
+  height: 380px;
+  background-color: white;
+  float: left;
+}
+#F{
+  width: 33.33%;
+  height: 380px;
+  background-color: white;
+  float: left;
+}
+.fotter-section .container-fluid{
+  width: 100%;
+  height: 480px;
+  background-color: black;
+  
+}
+#Z{
+  width: 30%;
+  height: 460px;
+  
+  color: white;
+  float: left;
+}
+#X{
+
+  width: 17.5%;
+  height: 460px;
+
+  color: white;
+
+  float: left;
+}
+#C{
+  width: 17.5%;
+  height: 460px;
+
+  color: white;
+  float: left;
+}
+#v{
+  width: 17.5%;
+  height: 460px;
+
+  color: white;
+  float: left;
+}
+#B{
+  width: 17.5%;
+  height: 480px;
+
+  color: white;
+  float: left;
+}
+#pp{
+  font-size: xx-small;
+}
+.PP{
+  font-size: smaller;
+}
+.footer-last .container-fluid{
+  width: 100%;
+  height: 80px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
